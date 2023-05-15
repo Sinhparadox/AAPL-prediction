@@ -1,0 +1,1 @@
+基于机器学习的苹果公司股票预测，decision tree, random forest 和 LSTM,以及rmse的检测，用R^2检测却明显出现过拟合，待验，后面会添加cross validation test的检测
